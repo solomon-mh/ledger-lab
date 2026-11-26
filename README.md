@@ -125,5 +125,5 @@ docs/INTERVIEW.md      design decisions, question bank, whiteboard drills
 
 Authentication, webhook signature verification, authorization holds (pending
 vs. available balances), FX conversion, and partitioning for very large
-volumes. `docs/INTERVIEW.md` explains how each would be added.
+volumes.
 # ledger-lab
